@@ -11,6 +11,9 @@ elif age > 2000:
 <<<<<<< HEAD
 elif age < 4000:
         print("You are a little vampire.")
+<<<<<<< HEAD
 #This message will be deleted
 =======
 >>>>>>> parent of 099d04a... Modifying vampire2.py adding one more elif
+=======
+>>>>>>> parent of 86afae4... Adding a comment to vampire2.py
