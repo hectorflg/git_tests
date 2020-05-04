@@ -4,6 +4,6 @@ It can be succinctly described by the following set of rules:
 
 write a “single” unit test describing an aspect of the program
 run the test, which should fail because the program lacks that feature
-write “just enough” code, the simplest possible, to make the test pass
+write “just enough” code for humans, the simplest possible, to make the test pass
 “refactor” the code until it conforms to the simplicity criteria
 repeat, “accumulating” unit tests over time
