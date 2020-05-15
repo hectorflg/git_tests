@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Python is a cool programing language
+=======
+git stash: a Clipboard for Your Changes
+Let's say you currently have a couple of local modifications:
+>>>>>>> Stashed changes

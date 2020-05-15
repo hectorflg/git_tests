@@ -1,0 +1,4 @@
+git stash - How to Save Your Changes Temporarily
+There are lots of situations where a clean working copy is recommended or even required: when merging branches, when pulling from a remote, or simply when checking out a different branch.
+
+The "git stash" command can help you to (temporarily but safely) store your uncommitted local changes - and leave you with a clean working copy.
