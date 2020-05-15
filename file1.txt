@@ -1,0 +1,2 @@
+string
+The nickname of the person if configured. If no nickname is configured for the person, this field will not be present.
